@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<body style="background-color:#022a3a" text="#ffffff">
+<img src="./navy.png" width="200" height="83"</img>
+<img src="./overmatch.jpeg" width="450" height="250"</img>
+<h2>Afloat Network</h2>
+
+<form action="/action_page.php">
+  <label for="fname">Aircraft Identifier:</label><br>
+  <input type="text" id="fname" value="06-6161"><br><br>
+  <label for="fname">AOR:</label><br>
+  <input type="text" id="fname" value="INDOPACOM"><br><br>
+  <input type="submit" value="Submit">
+</form> 
+<p>
+AIRCRAFT MODEL: Boeing C-17A Globemaster III
+<p>
+REGISTRATION: 06-6161
+<p>
+MODE-S: AE145F
+<p>
+SERIAL NUMBER: 50170/F169/P-161
+<p>
+LAST LOCATION: 39°02'58.4"N 172°20'11.3"E</p>
+</body>
+</html>
